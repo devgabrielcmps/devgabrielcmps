@@ -2,7 +2,7 @@
 ### Seja bem-vindo(a) ao meu GitHub! 🚀
 
 <p align="left">
-  <a href="" target="_blank">
+  <a href="www.linkedin.com/in/gabrielcamposdev" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:gabriel@email.com" target="_blank">
