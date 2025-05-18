@@ -21,6 +21,9 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampos-dev&layout=compact&theme=dracula)
+
+
 ## 🚀 Tecnologias e Ferramentas
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/></code>
