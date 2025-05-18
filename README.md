@@ -19,13 +19,6 @@
 - 🔧 Trabalho com Python, Streamlit, CustomTkinter, Pandas, Matplotlib e Arduino  
 - 🚀 Sempre em busca de novos aprendizados e desafios  
 
----
-
-## 📊 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielcmps&layout=compact&theme=tokyonight)
-
-
 
 ## 🚀 Tecnologias e Ferramentas
 
@@ -62,5 +55,9 @@
   Abertura remota via web, notificações por e-mail e integração com banco de dados SQL
 
 ---
+
+## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielcmps&layout=compact&theme=tokyonight)
 
 📫 _Sinta-se à vontade para entrar em contato, trocar ideias ou colaborar em projetos!_
