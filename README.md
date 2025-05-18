@@ -60,19 +60,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielcmps&layout=compact&theme=tokyonight)
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgabrielcmps&show_icons=true&theme=tokyonight)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=devgabrielcmps&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
-![snake gif](https://github.com/devgabrielcmps/devgabrielcmps/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=devgabrielcmps&theme=tokyo-night)
-
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgabrielcmps&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielcmps&layout=compact&theme=tokyonight)
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=devgabrielcmps&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
