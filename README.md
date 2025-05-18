@@ -21,7 +21,10 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampos-dev&layout=compact&theme=dracula)
+## 📊 Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielcmps&layout=compact&theme=tokyonight)
+
 
 
 ## 🚀 Tecnologias e Ferramentas
