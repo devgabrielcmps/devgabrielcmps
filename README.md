@@ -39,17 +39,17 @@
 ## 📂 Portfólio de Projetos
 
 ### 🧠 Inteligência Artificial / Machine Learning  
-- [**Insights e Previsão da Média de Gols no Brasileirão Série A 2025**](https://github.com/gabrielcampos-dev/brasileirao-ml-campeao)  
+- [**Insights e Previsão da Média de Gols no Brasileirão Série A 2025**](https://github.com/devgabrielcmps/Trabalho-Data-Science.git)  
   Projeto de análise do Campeonato Brasileiro (2003–2024) com previsão da média de gols para a temporada de 2025, utilizando dados históricos e técnicas de aprendizado de máquina.  
   **Tecnologias:** Python, Jupyter Notebook, Pandas, Matplotlib, Scikit-learn
 
 ### 🌦️ Aplicações com API  
-- [**Previsão do Tempo**](https://github.com/gabrielcampos-dev/previsao-tempo)  
+- [**Previsão do Tempo**](https://github.com/devgabrielcmps/Site-Previsao-Tempo.git)  
   Aplicação desenvolvida com Streamlit que consome a API da OpenWeather para exibir informações climáticas em tempo real de forma interativa.  
   **Tecnologias:** Python, Streamlit, API REST
 
 ### 💱 Aplicativo de Conversão de Moedas  
-- [**Conversor de Moedas**](https://github.com/gabrielcampos-dev/conversor-moedas)  
+- [**Conversor de Moedas**](https://github.com/devgabrielcmps/Projeto-App-de-Cotacao.git)  
   Conversão de valores em reais para diversas moedas internacionais, com exibição gráfica da cotação nas últimas semanas.  
   **Tecnologias:** Python, CustomTkinter, Matplotlib, API REST
 
