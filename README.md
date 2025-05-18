@@ -39,25 +39,37 @@
 ## 📂 Portfólio de Projetos
 
 ### 🧠 Inteligência Artificial / Machine Learning  
-- [**Probabilidade de Título no Brasileirão**](https://github.com/gabrielcampos-dev/brasileirao-ml-campeao)  
-  Previsão das chances de título com base em dados históricos do Campeonato Brasileiro (2003–2023)
+- [**Insights e Previsão da Média de Gols no Brasileirão Série A 2025**](https://github.com/gabrielcampos-dev/brasileirao-ml-campeao)  
+  Projeto de análise do Campeonato Brasileiro (2003–2024) com previsão da média de gols para a temporada de 2025, utilizando dados históricos e técnicas de aprendizado de máquina.  
+  **Tecnologias:** Python, Jupyter Notebook, Pandas, Matplotlib, Scikit-learn
 
 ### 🌦️ Aplicações com API  
 - [**Previsão do Tempo**](https://github.com/gabrielcampos-dev/previsao-tempo)  
-  Interface em Streamlit conectada à API OpenWeather para consulta de clima em tempo real
+  Aplicação desenvolvida com Streamlit que consome a API da OpenWeather para exibir informações climáticas em tempo real de forma interativa.  
+  **Tecnologias:** Python, Streamlit, API REST
 
 ### 💱 Aplicativo de Conversão de Moedas  
 - [**Conversor de Moedas**](https://github.com/gabrielcampos-dev/conversor-moedas)  
-  Conversão de reais para moedas internacionais com gráficos interativos
+  Conversão de valores em reais para diversas moedas internacionais, com exibição gráfica da cotação nas últimas semanas.  
+  **Tecnologias:** Python, CustomTkinter, Matplotlib, API REST
 
-### 🔒 Projetos com Arduino  
-- **Fechadura Inteligente com RFID e ESP32** *(em desenvolvimento)*  
-  Abertura remota via web, notificações por e-mail e integração com banco de dados SQL
 
 ---
 
 ## 📊 Linguagens mais usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devgabrielcmps&layout=compact&theme=tokyonight)
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devgabrielcmps&show_icons=true&theme=tokyonight)
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=devgabrielcmps&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+![snake gif](https://github.com/devgabrielcmps/devgabrielcmps/blob/output/github-contribution-grid-snake.svg)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=devgabrielcmps&theme=tokyo-night)
+
+
+
+
 
 📫 _Sinta-se à vontade para entrar em contato, trocar ideias ou colaborar em projetos!_
