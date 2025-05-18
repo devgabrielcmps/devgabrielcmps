@@ -15,9 +15,9 @@
 🎓 **Sobre mim**  
 - 👨‍💻 Estudante de Engenharia da Computação – 1º período na PUC Minas  
 - 🧠 Técnico em Automação Industrial  
-- 📊 Apaixonado por dados, eletrônica, automação e inteligência artificial  
-- 🔧 Desenvolvo projetos com Python, Arduino, Streamlit, análise de dados e visualização com gráficos  
-- 🚀 Em constante aprendizado, integrando a área industrial com soluções em software
+- 📊 Apaixonado por dados, inteligência artificial e desenvolvimento de software
+- 🔧 Desenvolvo projetos com Python,Streamlit,CustomTkinter, pandas,matplotlib
+- 🚀 Em constante aprendizado
 
 ---
 
@@ -26,9 +26,6 @@
 
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" title="Pandas"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib"/></code>
-<code><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" title="Streamlit"/></code>
-<code><img src="https://img.shields.io/badge/CustomTkinter-2E2E2E?style=flat-square&logo=python&logoColor=white" title="CustomTkinter (GUI Toolkit baseado em Tkinter)"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="Linguagem C"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"></code>
@@ -54,6 +51,10 @@
 - [Fechadura Inteligente com RFID e ESP32](em desenvolvimento) – Abertura remota, notificação por e-mail e banco de dados SQL
 
 ---
+
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" title="Matplotlib"/></code>
+<code><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" title="Streamlit"/></code>
+<code><img src="https://img.shields.io/badge/CustomTkinter-2E2E2E?style=flat-square&logo=python&logoColor=white" title="CustomTkinter (GUI Toolkit baseado em Tkinter)"/></code>
 
 ---
 
