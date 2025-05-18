@@ -48,19 +48,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielcampos-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampos-dev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
----
-
-## 🌟 Vitrine Dev
-
-[![Gabriel Campos na Vitrine Dev](https://user-images.githubusercontent.com/64700794/188927548-c627858f-5e22-4373-b6fc-f9bd26c5195f.png)](https://cursos.alura.com.br/vitrinedev/gabrielcampos-dev)
-
 ---
 
 📫 _Entre em contato para trocar ideias, colaborar ou conhecer mais projetos!_
