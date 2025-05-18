@@ -31,8 +31,6 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" title="SQLite"/></code>
-<code><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" title="Streamlit"/></code>
-<code><img src="https://img.shields.io/badge/CustomTkinter-2E2E2E?style=flat-square&logo=python&logoColor=white" title="CustomTkinter"/></code>
 
 ---
 
