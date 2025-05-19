@@ -1,4 +1,3 @@
-# Olá, meu nome é **Gabriel Campos**! 👋  
 ### Seja bem-vindo(a) ao meu GitHub! 🚀
 
 <p align="left">
