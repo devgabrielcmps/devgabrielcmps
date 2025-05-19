@@ -14,7 +14,7 @@
 🎓 **Sobre mim**  
 - 👨‍💻 Estudante de Engenharia da Computação — 1º período na PUC Minas  
 - 🧠 Técnico em Automação Industrial formado pela UFMG  
-- 📊 Apaixonado por ciência de dados, inteligência artificial e desenvolvimento de software (sites e aplicativos)  
+- 📊 Apaixonado por ciência de dados, inteligência artificial e desenvolvimento de software (frontEnd,backEnd e fullStack)  
 - 🔧 Trabalho com Python, Streamlit, CustomTkinter, Pandas, Matplotlib e Arduino  
 - 🚀 Sempre em busca de novos aprendizados e desafios  
 
